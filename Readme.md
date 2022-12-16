@@ -9,7 +9,11 @@ Challenges and Difficulties Encountered
 Results
 
 
-This new assignment consists of one technical deliverable and a written report to deliver your results. You will submit the following:
+This new assignment consists of one technical deliverable and a written report to deliver your results. where as data analyst submits the following:
+Deliverable 1: The Election Results Printed to the Command Line
+Deliverable 2: The Election Results Saved to a Text File
+Deliverable 3: A written Analysis of the Election Audit (README.md)
+Files
 
 Election Analysis: Helping with Colorado's election with analysis using Python.
 
