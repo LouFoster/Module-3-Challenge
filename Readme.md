@@ -75,21 +75,38 @@ We created a python script to report our analysis; see the above Screen Print Ou
 •	Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
 Analysis shows the following 
+  
   The analysis of the election shows that:
-    •	There were 369,711 total votes cast in this congressional election.
+   
+•	There were 369,711 total votes cast in this congressional election.
+
 •	The county results for the precinct:
-  o	Jefferson cast 10.5% of the vote and 38,855 votes.
-  o	Denver cast 82.8% of the vote and 306,055 votes.
-  o	Arapahoe cast 6.7% of the vote and 24,801.
+ 
+ o	Jefferson cast 10.5% of the vote and 38,855 votes.
+ 
+ o	Denver cast 82.8% of the vote and 306,055 votes.
+
+o	Arapahoe cast 6.7% of the vote and 24,801.
+
+
 •	The three candidates were:
+  
   o	Charles Casper Stockham
-  o	Diana DeGette
-  o	Raymon Anthony Doane
+ 
+ o	Diana DeGette
+ 
+ o	Raymon Anthony Doane
+
 •	Denver county had the largest number of votes.
+
 •	The candidate results were:
+  
   o	Charles Casper Stockham recieved 23.0% of the vote and 85,213 votes.
+  
   o	Diana DeGette recieved 73.8% of the vote and 272,892 votes.
-  o	Raymon Anthony Doane recieved 3.1% of the vote and 11,606 votes.
+ 
+ o	Raymon Anthony Doane recieved 3.1% of the vote and 11,606 votes.
+
 •	The winner of the election was Diana DeGette, who recieved 73.8% of the vote and 272,892 votes.
 See the output of the code below:
  
