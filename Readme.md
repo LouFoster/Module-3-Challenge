@@ -42,7 +42,7 @@ By the end of this module, as the assigned Data Analyst, I should be able to sho
 
 •	Write data to an output file and print the file.
 
-#Overview of Election Audit
+# Overview of Election Audit
 A Colorado board of election employee has given you the following task to complete the election audit of a recent local congressional election.
 •	The voter turnout for each county
 •	The percentage of votes from each county out of the total count
@@ -83,20 +83,20 @@ Analysis shows the following
 
 •	The county results for the precinct:
  
- o	Jefferson cast 10.5% of the vote and 38,855 votes.
+  o	Jefferson cast 10.5% of the vote and 38,855 votes.
  
- o	Denver cast 82.8% of the vote and 306,055 votes.
+  o	Denver cast 82.8% of the vote and 306,055 votes.
 
-o	Arapahoe cast 6.7% of the vote and 24,801.
+  o	Arapahoe cast 6.7% of the vote and 24,801.
 
 
 •	The three candidates were:
   
-  o	Charles Casper Stockham
+   o	Charles Casper Stockham
  
- o	Diana DeGette
+   o	Diana DeGette
  
- o	Raymon Anthony Doane
+   o	Raymon Anthony Doane
 
 •	Denver county had the largest number of votes.
 
