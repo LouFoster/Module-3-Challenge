@@ -21,6 +21,7 @@ This module is to illustrate the use of the programming language Python to:
 
 •	Produce screen outputs.
 
+
 By the end of this module, as the assigned Data Analyst, I should be able to show the client the following abilities.
 
 •	Navigate to folders on your computer using the command line.
