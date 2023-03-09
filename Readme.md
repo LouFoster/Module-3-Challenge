@@ -32,7 +32,8 @@ Using repetition statements, conditional statements with logical operators, and 
 
 # Deliverable 2: Election Results Saved to a Text File (20 points)
 Using your knowledge of writing data to a text file, write the winning candidate results and the county election results to the election_results.txt file.
- 
+ ![image](https://user-images.githubusercontent.com/117233641/224121404-10e1b7de-bb60-4bf5-95fa-56da8ffe7f50.png)
+
 
 # Deliverable 3: Written Analysis of the Election Audit (20 points)
 Overview of Election Audit: 
@@ -84,8 +85,9 @@ Further analysis of the election data led to questions on the calculation of the
 
 
 
-Election Results
-
+# Election Results
+•	The winner of the election was Diana DeGette, who recieved 73.8% of the vote and 272,892 votes.
+See the output of the code
 -
 
 #### Largest County Turnout:
