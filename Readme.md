@@ -1,5 +1,14 @@
-Overview of Project
-(As captured from Data Bootcamp Module ) This challenge is to demonstrate the ability to
+# Overview of Project
+(As captured from Data Bootcamp Module ) 
+
+A Colorado board of election employee has given you the following task to complete the election audit of a recent local congressional election.
+
+•	The voter turnout for each county
+
+•	The percentage of votes from each county out of the total count
+
+•	The county with the highest turnout
+
 
 # Project Purpose
 This module is to illustrate the use of the programming language Python to: 
@@ -13,15 +22,25 @@ This module is to illustrate the use of the programming language Python to:
 •	Produce screen outputs.
 
 By the end of this module, as the assigned Data Analyst, I should be able to show the client the following abilities.
+
 •	Navigate to folders on your computer using the command line.
+
 •	Read and extract data from CSV files.
+
 •	Determine the difference between Python data types, like integers, floating-point decimal numbers, and strings.
+
 •	Perform mathematical operations using data types.
+
 •	Declare variables using different data types.
+
 •	Create and use data structures like lists, tuples, and dictionaries.
+
 •	Create and use decision and repetition statements.
+
 •	Create and use Boolean and logical operators.
+
 •	Write data to an output file and print the file.
+
 #Overview of Election Audit
 A Colorado board of election employee has given you the following task to complete the election audit of a recent local congressional election.
 •	The voter turnout for each county
@@ -95,6 +114,7 @@ See the output of the code
 -
 
 #### Largest County Turnout:
+•	Denver county had the largest number of votes.
 
 
 ---
