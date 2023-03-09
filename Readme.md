@@ -44,8 +44,11 @@ By the end of this module, as the assigned Data Analyst, I should be able to sho
 
 # Overview of Election Audit
 A Colorado board of election employee has given you the following task to complete the election audit of a recent local congressional election.
+
 •	The voter turnout for each county
+
 •	The percentage of votes from each county out of the total count
+
 •	The county with the highest turnout
 
 Finally, as assigned Data Analyst, I need to provide the clients with a written analysis of the election audit for the election commission, including the new results and a clearly written overview of your methods. As with all written analyses, this will help your audience understand what you did and what they might be able to do with the data you presented.
